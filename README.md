@@ -45,4 +45,4 @@ Set this dynamic variable to control the threshold for the matching.  Setting th
 
 [@tony-o](https://www.gittip.com/tony-o/)
 
-Nick Logan <<ugexe>>
+Nick Logan \<ugexe\>
