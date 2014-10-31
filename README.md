@@ -43,6 +43,6 @@ Set this dynamic variable to control the threshold for the matching.  Setting th
 
 #Credit Cards
 
-tony-o
+[@tony-o](https://www.gittip.com/tony-o/)
 
 Nick Logan <ugexe>
