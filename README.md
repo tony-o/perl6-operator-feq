@@ -29,7 +29,7 @@ See the tests for an example of how to extend/create custom comparison routines.
 
 ##```$*FEQLIB```
 
-Defaults: no default is set but defaults to Text::Levenshtein::Damerau
+Defaults: ```Text::Levenshtein::Damerau```
 
 Set this dynamic variable to control which library 'feq' uses
 
